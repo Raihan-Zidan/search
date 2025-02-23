@@ -1,4 +1,4 @@
-name = "Search"
+name = "search"
 main = "data.js"
 
 compatibility_date = "2025-02-16"
